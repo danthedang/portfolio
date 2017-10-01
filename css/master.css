@@ -1,7 +1,12 @@
-.jumbotron h3 {
+.jumbotron h2 {
   text-align: center;
 }
 
 .jumbotron img {
   width: 100%;
+}
+
+.company {
+  font-style: italic;
+  font-weight: bolder;
 }
